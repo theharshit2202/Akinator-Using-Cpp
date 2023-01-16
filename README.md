@@ -3,10 +3,10 @@
 ## Funny game with all countries in the world
 
 #### Developers: 
-[Harshit Gupta](https://www.linkedin.com/in/harshitgupta-hmr/) 
+[Harshit Gupta] (https://www.linkedin.com/in/harshitgupta-hmr/) 
 
 [Manya Verma] (https://www.linkedin.com/in/manya-verma-2002/)
-#### Released:  15.01.2022
+#### Released:  15.01.2023
 #### Languages: English
 
 Do you think you are good at geography?  
