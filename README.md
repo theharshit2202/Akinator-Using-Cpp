@@ -3,8 +3,7 @@
 ## Funny game with all countries in the world
 
 #### Developers: 
-[Harshit Gupta](https://www.linkedin.com/in/harshitgupta-hmr/)
-[Manya Verma] (https://www.linkedin.com/in/manya-verma-2002/)
+[Harshit Gupta](https://www.linkedin.com/in/harshitgupta-hmr/) [Manya Verma] (https://www.linkedin.com/in/manya-verma-2002/)
 #### Released:  24.01.2022
 #### Languages: English
 
